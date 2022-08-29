@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\C#\Массивы\bin\Debug\net6.0\Массивы.exe
+C:\Users\Ирина\Desktop\C#\Массивы\bin\Debug\net6.0\Массивы.deps.json
+C:\Users\Ирина\Desktop\C#\Массивы\bin\Debug\net6.0\Массивы.runtimeconfig.json
+C:\Users\Ирина\Desktop\C#\Массивы\bin\Debug\net6.0\Массивы.dll
+C:\Users\Ирина\Desktop\C#\Массивы\bin\Debug\net6.0\Массивы.pdb
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.dll
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\refint\Массивы.dll
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.pdb
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\Массивы.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\C#\Массивы\obj\Debug\net6.0\ref\Массивы.dll
